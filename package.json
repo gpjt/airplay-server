@@ -6,7 +6,7 @@
     "start": "node app"
   },
   "dependencies": {
-    "nodetunes": "^0.3.0",
+    "nodetunes": "git://github.com/Kolky/nodetunes.git#master",
     "speaker": "^0.3.0"
   }
 }
